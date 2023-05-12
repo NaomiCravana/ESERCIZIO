@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Agenzia illustratori naomicravana</title>
+    </head>
+    <link rel="stylesheet" href="titolo2.css">
+    <body>
+       <div class="navbar">
+        <ul>
+          <li>AGENZIA</li>
+          <li><a href="#">           </a></li>
+          <li><a href="#">           </a></li>
+          <li><a href="#">           </a></li>
+          <li><a href="lavorareconnoi">LAVORARE CON NOI </a></li>
+          <li><a href="#">HOME</a></li>
+        </ul>
+       </div>
+       <div class="bodysheet">
+        <h1>Trova il tuo illustratore personale in pochi click</h1>
+        <h2>Agenzia ti propone i migliori artisti esperti nella creazione di illustrazioni per siti web e compagnie.</h2>
+       <div class="btn">
+        <a href="illustratori" >GET STARTED>> </a>
+       </div>
+       </div>
+    </body>
+   
+
+  </div>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Agenzia illustratori naomicravana</title>
+    </head>
+    <link rel="stylesheet" href="lavorocss.css">
+    <body>
+       <div class="navbar">
+        <ul>
+          <li>AGENZIA</li>
+          <li><a href="#">           </a></li>
+          <li><a href="#">           </a></li>
+          <li><a href="illustratori"> ILLUSTRATORI</a></li>
+          <li><a href="lavorareconnoi">LAVORARE CON NOI </a></li>
+          <li><a href="index">HOME</a></li>
+        </ul>
+       </div>
+       <div class="bodysheet">
+        <h1>Lavorare con noi</h1>
+        <h2>Ci occupiamo di pubblicizzare artisti nascenti, 
+          per aiutarli  nella ricerca del lavoro che meritano.</h2>
+          <h2>Potete contattarci qui:</h2>
+          <h2>AGENZIA@gmail.com</h2>
+          <h2>AGENZIA, via roma 82, Roma</h2>
+       </div>
+    </body>

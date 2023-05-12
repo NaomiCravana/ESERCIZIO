@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Agenzia illustratori naomicravana</title>
+    </head>
+    <link rel="stylesheet" href="illustratori.css">
+    <body>
+       <div class="navbar">
+        <ul>
+          <li>AGENZIA</li>
+          <li><a href="#">           </a></li>
+          <li><a href="#">           </a></li>
+          <li><a href="illustratori"> ILLUSTRATORI</a></li>
+          <li><a href="lavorareconnoi">LAVORARE CON NOI </a></li>
+          <li><a href="index">HOME</a></li>
+        </ul>
+       </div>
+       <div class="bodysheet">
+       <h1>ILLUSTRATORI</h1>
+       <div class="btn">
+        <a href="HUINCA" >Camilo Huinca</a> 
+        <a href="HUINCA"><img class="imgContainer" src="Senza nome.png"/></a>
+        <a href="LAHAN" >Tim Lahan</a>
+        <a href="LAHAN"><img class="imgContainer" src="a.png"/></a>
+        <a href="FREIER" >Karlotta Freier</a>
+        <a href="FREIER"><img class="imgContainer" src="p.png"/></a>
+        <a href="Herrera" >Xoana Herrera</a>
+        <a href="Herrera"><img class="imgContainer" src="cd.png"/></a> 
+        <a href="Linn-Fritz" >Linn-Fritz </a>
+        <a href="Linn-Fritz"><img class="imgContainer" src="z.png"/></a>
+        <a href="La Boca" >La Boca </a>
+        <a href="La Boca"><img class="imgContainer" src="y.png"/></a>
+       </div>
+       </div>
+    </body>
+   

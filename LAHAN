@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Agenzia illustratori naomicravana</title>
+    </head>
+    <link rel="stylesheet" href="huinca.css">
+    <body>
+       <div class="navbar">
+        <ul>
+          <li>AGENZIA</li>
+          <li><a href="#">           </a></li>
+          <li><a href="#">           </a></li>
+          <li><a href="illustratori"> ILLUSTRATORI</a></li>
+          <li><a href="lavorareconnoi">LAVORARE CON NOI </a></li>
+          <li><a href="index">HOME</a></li>
+        </ul>
+       </div>
+       <div class="bodysheet">
+        <h1>TIM LAHAN</h1>
+        <h2>San Francisco-based artist Tim Lahan’s naughty, witty artwork is the product of his ability to digest and illustrate clever glitches, concepts and interesting visual cues from the world around him. “I generally aim to make things as simple as possible,” says Tim. “Sometimes they come out funny.” Generally commissioned to bring a touch of joy to magazines, brand campaigns and music collateral, the ADC Young Gun award winner’s instantly recognisable style is enviably simple and genuinely funny: something very few illustrators can boast.</h2>
+          
+       </div>
+       
+       <div class="imgContainer">
+        <img src="a.png"/> 
+        <img src="i8.png"/>
+       </div>
+        <div class="img">
+        <img src="hy7.png"/> <img src="k.png"/>
+        </div>
+       <div class="btn">
+        <a href="FREIER" >next </a>
+       </div>
+       <div class="btn">
+        <a href="HUINCA" > back </a>
+       </div> 
+    </body>
